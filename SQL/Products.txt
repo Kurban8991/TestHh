@@ -1,0 +1,7 @@
+CREATE TABLE Products (
+	id int PRIMARY KEY,
+	name varchar(max) NOT NULL);
+
+INSERT INTO Products
+VALUES  (1, 'Мясо'),
+	(2, 'Вода');

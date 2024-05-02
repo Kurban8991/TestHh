@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TestHh\TestHh\bin\Debug\net6.0\TestHh.exe
+C:\Users\User\Desktop\TestHh\TestHh\bin\Debug\net6.0\TestHh.deps.json
+C:\Users\User\Desktop\TestHh\TestHh\bin\Debug\net6.0\TestHh.runtimeconfig.json
+C:\Users\User\Desktop\TestHh\TestHh\bin\Debug\net6.0\TestHh.dll
+C:\Users\User\Desktop\TestHh\TestHh\bin\Debug\net6.0\TestHh.pdb
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.AssemblyInfo.cs
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.dll
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\refint\TestHh.dll
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.pdb
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\TestHh.genruntimeconfig.cache
+C:\Users\User\Desktop\TestHh\TestHh\obj\Debug\net6.0\ref\TestHh.dll

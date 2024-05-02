@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TestHh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462E4D0E-A781-411C-A571-D2BB870B359A}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\testhh\\testproject\\figuretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E4D0E-A781-411C-A571-D2BB870B359A}|TestProject\\TestProject.csproj|solutionrelative:testproject\\figuretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|c:\\users\\user\\desktop\\testhh\\testhh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|solutionrelative:testhh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|c:\\users\\user\\desktop\\testhh\\testhh\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|solutionrelative:testhh\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|c:\\users\\user\\desktop\\testhh\\testhh\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|solutionrelative:testhh\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|c:\\users\\user\\desktop\\testhh\\testhh\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7B99BD-4BAC-4770-A8ED-BAC40D852466}|TestHh\\TestHh.csproj|solutionrelative:testhh\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FigureTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestHh\\TestProject\\FigureTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\FigureTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestHh\\TestProject\\FigureTest.cs",
+              "RelativeToolTip": "TestProject\\FigureTest.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:05:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Triangle.cs",
+              "RelativeDocumentMoniker": "TestHh\\Triangle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Triangle.cs",
+              "RelativeToolTip": "TestHh\\Triangle.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:58:30.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Circle.cs",
+              "RelativeDocumentMoniker": "TestHh\\Circle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Circle.cs",
+              "RelativeToolTip": "TestHh\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:57:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Shape.cs",
+              "RelativeDocumentMoniker": "TestHh\\Shape.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Shape.cs",
+              "RelativeToolTip": "TestHh\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:56:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Program.cs",
+              "RelativeDocumentMoniker": "TestHh\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TestHh\\TestHh\\Program.cs",
+              "RelativeToolTip": "TestHh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:55:47.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
